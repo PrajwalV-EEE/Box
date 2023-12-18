@@ -1,0 +1,58 @@
+body {
+    background-color: #ff9968;
+    margin: 6% 10% 5% 12.5%;
+}
+.one {
+    height:570px;
+    width: 1095px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    text-align: center;
+}
+.one1 ,.one2,.one3,.one4{
+    height: 200px;
+    background-color: blue;
+    width: 200px;
+    margin-left: 5%;
+    margin-top: 5%;
+    border-radius: 5%;
+}
+.one5,.one6 {
+    height: 200px;
+    background-color: blue;
+    width: 200px;
+    position: relative;
+    margin-left: 4.5%;
+    margin-top: 25%;
+    border-radius: 5%;
+}
+.two {
+    display: flex;
+    flex-direction: row;
+}
+p {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40%;
+}
+.one1 {
+    background:linear-gradient(to right,#0a93e8,#06ebfe)
+}
+.one2 {
+    background:linear-gradient(to right,#c76fe5,#f2515b)
+}
+.one3 {
+    background:linear-gradient(to right,#f13011,#f5a019)
+}
+.one4 {
+    background:linear-gradient(to right,#7f7fd5,#afc6f4)
+}
+.one5 {
+    background:linear-gradient(to right,#09b295,#87c747)
+}
+.one6 {
+    background:linear-gradient(to right,purple,violet)
+}
